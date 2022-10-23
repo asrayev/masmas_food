@@ -1,5 +1,3 @@
-# flutterl3
-
 shipping app
 
 ## Getting Started
